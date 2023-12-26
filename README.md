@@ -1,4 +1,8 @@
 # Github basic rules
+
+![1703465910680](https://github.com/MahinulAbid2/Gtihub-Basic-commands/assets/70069009/31b9e34d-ed91-43b4-a4bc-cc29c3c8d50b)
+
+
 **rename git branch**
 ```console
 git branch -m old-name new-name
